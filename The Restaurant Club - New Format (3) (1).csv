@@ -1,0 +1,453 @@
+Restaurant,"Average Rating (Joe, Lee and Hugo)",Average Rating (all who attended),Date,City,Cuisine,Joe,Lee,Hugo,Nik,Zoe,Courtney,Randal,Victoria,Aiden,Jamie,Jos,Charlie,Oscar,Jess,Caty,Gillian,Victoria's Mum,Mum,Dad,Photos
+Ceviche,7,7,Mar-19,London,Peruvian,7,7,7,,,,,,,,,,,,,,,,,
+Gloria,8.83,9,May-19,London,Italian,9.5,9,8,,9.5,,,,,,,,,,,,,,,
+El Pastor,8.33,8.33,Oct-19,London,Mexican,8.5,8.5,8,,,,,,,,,,,,,,,,,
+Chotto Matte,9.17,9.17,Nov-19,London,Nikkei,9,9,9.5,,,,,,,,,,,,,,,,,
+Flesh and Buns,6.67,6.67,Mar-20,London,Japanese,6.5,6.5,7,,,,,,,,,,,,,,,,,
+Brindisa,8.33,8.33,Sep-20,London,Spanish,9,8,8,,,,,,,,,,,,,,,,,
+La Fabrica,6.17,6.17,Oct-20,London,Spanish,6,5.5,7,,,,,,,,,,,,,,,,,
+Paladar,8.83,8.83,Apr-21,London,Latin American,9,8.5,9,,,,,,,,,,,,,,,,,
+MBER,7.67,7.63,Jun-21,London,Fusion,8,7.5,7.5,,7.5,,,,,,,,,,,,,,,
+Moro,7.5,7.38,Sep-21,London,North African,7,7.5,8,,7,,,,,,,,,,,,,,,
+Bar Douro,7.5,7.5,Feb-22,London,Portuguese,8,7,7.5,,,,,,,,,,,,,,,,,
+Coya,9,9,Apr-22,London,Peruvian,9,9,9,,,,,,,,,,,,,,,,,
+La Rampa,7.67,7.67,Oct-22,London,Cuban,8,7.5,7.5,,,,,,,,,,,,,,,,,
+Yauatcha,8.17,8.17,Nov-22,London,Dim Sum,8,8,8.5,,,,,,,,,,,,,,,,,
+Caldesi,6.5,6.5,Jan-23,London,Italian,7.5,7,5,,6.5,,,,,,,,,,,,,,,
+Zapote,8,8,Mar-23,London,Mexican,8,8,8,,,,,,,,,,,,,,,,,
+Hawksmoor,8.17,8.17,May-23,London,Steak,8.5,8,8,,,,,,,,,,,,,,,,,
+Andrew Edmunds,7.5,7.5,Oct-23,London,Modern European,7.5,7.5,7.5,,,,,,,,,,,,,,,,,
+Sucre,7.67,7.67,Mar-24,London,Latin American,8,8.5,6.5,,,,,,,,,,,,,,,,,
+Zima,6.5,6.5,Apr-24,London,Russian,6,6.5,7,,,,,,,,,,,,,,,,,
+Leroy,8,8,Jul-24,London,Modern European,7.5,8,8.5,,,,,,,,,,,,,,,,,
+The Seafood Bar,N/A,8,Jul-24,London,Seafood,,,7,9,,,,,,,,,,,,,,,,
+Yautcha,N/A,8.25,Jul-24,London,Dim Sum,,,8.5,8,,,,,,,,,,,,,,,,
+Osteria Donna Carmela ,N/A,6.5,Aug-24,Valetta,Italian,,7,6,,,,,,,,,,,,,,,,,
+Peppinos,N/A,6.5,Aug-24,Valetta,Italian,,6.5,6.5,,,,,,,,,,,,,,,,,
+Taproom ,N/A,6.5,Aug-24,Valetta,Maltese,,6.5,6.5,,,,,,,,,,,,,,,,,
+Muza ,N/A,7,Aug-24,Valetta,Maltese,,7,7,,,,,,,,,,,,,,,,,
+One80 Gozo,N/A,7.25,Aug-24,Gozo,Modern European,,7,7.5,,,,,,,,,,,,,,,,,
+Chop House Silema,N/A,7.75,Aug-24,Silema ,Steak,,7.5,8,,,,,,,,,,,,,,,,,
+Roka,N/A,8,Aug-24,London,Japanese,,,8,8,,,,,,,,,,,,,,,,
+One80 Valetta,N/A,8.25,Aug-24,Valetta,Modern European,,8,8.5,,,,,,,,,,,,,,,,,
+45 Jermyn Street,N/A,8.75,Aug-24,London,Modern European,,,8.5,9,,,,,,,,,,,,,,,,
+Heroica Lounge,N/A,7,Sep-24,London,Italian,,,7,7,,,,,,,,,,,,,,,,
+Farzi,N/A,7.75,Sep-24,London,Indian,,,7,8.5,,,,,,,,,,,,,,,,
+Marceline,N/A,8,Sep-24,London,French,,,8,8,,,,,,,,,,,,,,,,
+Crudo,N/A,8,Sep-24,London,Peruvian ,,,8,8,,,,,,,,,,,,,,,,
+The Oystermen ,N/A,8.75,Sep-24,London,Seafood,,,8.5,9,,,,,,,,,,,,,,,,
+Carmel,6.83,6.75,Oct-24,London,Modern European,7,7,6.5,6.5,6.5,7,,,,,,,,,,,,,,
+The Devonshire,N/A,7.83,Oct-24,London,Pub,,,7.5,,,,8,8,,,,,,,,,,,,
+Bentleys,N/A,9.25,Oct-24,London,Seafood,,,9,9.5,,,,,,,,,,,,,,,,
+Roe,8,8,Nov-24,London,Modern European,8,8,8,,,,,,,,,,,,,,,,,
+Seafood Bar,N/A,7.3,Nov-24,London,Seafood,,,8,,,,7,7,,,,,,,,,,7,7.5,
+Oysteria,N/A,7.5,Nov-24,London,Seafood,,,7.5,7.5,,,,,,,,,,,,,,,,
+Hawksmoor City,N/A,7.5,Nov-24,London,Steak,,,7.5,,,,,,7.5,,,,,,,,,,,
+The Scallop Shell,N/A,8,Nov-24,Bath,Seafood,,,8,8,,,,,,,,,,,,,,,,
+Maison Francois,N/A,8.25,Nov-24,London,French,,,8,8.5,,,,,,,,,,,,,,,,
+Boisdale,N/A,8.5,Nov-24,London,British; Modern European,,,8,9,,,,,,,,,,,,,,,,
+The Raven,N/A,8.75,Nov-24,Bath,Pub,,,8,9.5,,,,,,,,,,,,,,,,
+The Hero,N/A,7.25,Dec-24,London,Pub,,7.5,7,,,,,,,,,,,,,,,,,
+Roe,N/A,7.25,Dec-24,London,Modern European,,,7,7.5,,,,,,,,,,,,,,,,
+Wright Brothers,N/A,8,Dec-24,London,Seafood,,,7.5,8.5,,,,,,,,,,,,,,,,
+Meraki,N/A,8,Dec-24,London,Greek,,,8,8,,,,,,,,,,,,,,,,
+Chotto Matte,N/A,8.5,Dec-24,London,Nikkei,,,8.5,8.5,,,,,,,,,,,,,,,,
+Hawksmoor Canary Wharf,N/A,8.75,Dec-24,London,Steak,,,8.5,9,,,,,,,,,,,,,,,,
+Fallow,N/A,5.75,Jan-25,London,Modern European,,,5.5,6,,,,,,,,,,,,,,,,
+Agora,N/A,7.17,Jan-25,London,Greek,,,7,,,,7.5,7,,,,,,,,,,,,
+Bread Street Kitchen,N/A,7.25,Jan-25,London,Modern European,,,7.5,7,,,,,,,,,,,,,,,,
+Lita,N/A,8.5,Jan-25,London,Modern European,,8.5,,,,8.5,,,,,,,,,,,,,,
+Silva,7.83,7.83,Feb-25,London,Modern European,8,8,7.5,,,,,,,,,,,,,,,,,
+Som Saa,N/A,7.75,Feb-25,London,Thai,,,7.5,8,,,,,,,,,,,,,,,,
+Santo Remedio,N/A,8.25,Feb-25,London,Mexican,,,8,8.5,,,,,,,,,,,,,,,,
+Lita,N/A,8.25,Feb-25,London,Modern European,,,8,8.5,,,,,,,,,,,,,,,,
+Canteen,N/A,8.5,Feb-25,London,Italian,,8.5,,,,8.5,,,,,,,,,,,,,,
+Duck and Waffle,N/A,8,Mar-25,London,Modern European,,,8,8,,,,,,,,,,,,,,,,
+Lorne,N/A,8.5,Mar-25,London,Modern European,,,8,9,,,,,,,,,,,,,,,,
+45 Jermyn Street,N/A,8.75,Mar-25,London,Modern European,,,8.5,9,,,,,,,,,,,,,,,,
+Fonda,8.33,8.33,Apr-25,London,Mexican,9,8.5,7.5,,,,,,,,,,,,,,,,,
+Din Tai Fung,N/A,7.5,Apr-25,London,Dim Sum,,,7,8,,,,,,,,,,,,,,,,
+Anglothai,N/A,8.7,Apr-25,London,Thai; British Thai,,,8.5,,,,9,8,,,,,,,,,,9,9,
+Goodman ,N/A,8.75,Apr-25,London,Steak,,,9,8.5,,,,,,,,,,,,,,,,
+Brasserie Blanc,N/A,6.25,May-25,Bournemouth,French,,,5.5,7,,,,,,,,,,,,,,,,
+Rick Stein,N/A,6.75,May-25,Poole,Seafood,,,7,6.5,,,,,,,,,,,,,,,,
+Temper ,N/A,7.33,May-25,London,Steak,,,7.5,,,,7,7.5,,,,,,,,,,,,
+El Pastor,N/A,7.5,May-25,London,Mexican,,,7,8,,,,,,,,,,,,,,,,
+Lurra,N/A,8.25,May-25,London,Basque; Spanish,,,8.5,8,,,,,,,,,,,,,,,,
+Ibai,N/A,8.67,May-25,London,Basque; Spanish,,,8.5,,,,8.5,,,,,,,,,,,,9,
+Mestizo,6.5,6.5,Jun-25,London,Mexican,6.5,6.5,6.5,,,,,,,,,,,,,,,,,
+Osteria Angelina,8.67,8.67,Jun-25,London,Fusion,8.5,8.5,9,,,,,,,,,,,,,,,,,
+The Ambassador's Clubhouse,N/A,7,Jun-25,London,Indian,,,6.5,,,,7,7,,,,,,,,,,7,7.5,
+Camille,N/A,7.5,Jun-25,London,French,,,7.5,7.5,,,,,,,,,,,,,,,,
+Sticks & Sushi,N/A,7.5,Jun-25,London,Japanese,,,8,7,,,,,,,,,,,,,,,,
+OMA,N/A,8.5,Jun-25,London,Greek,,,8,9,,,,,,,,,,,,,,,,
+Osteria Angelina,N/A,9.5,Jun-25,London,Fusion,,,9.5,9.5,,,,,,,,,,,,,,,,
+Barbarella,N/A,7,Jul-25,London,Italian,,,6.5,7.5,,,,,,,,,,,,,,,,
+Vu's Hanoi Restaurant,N/A,7,Jul-25,Paris,Vietnamese,,,7,7,,,,,,,,,,,,,,,,
+Brasserie Hector,N/A,7.25,Jul-25,Paris,French,,,7,7.5,,,,,,,,,,,,,,,,
+Alix et Mika,N/A,7.25,Jul-25,Paris,French,,,7,7.5,,,,,,,,,,,,,,,,
+Au Petit Chauvignon,N/A,7.75,Jul-25,Paris,French,,,7.5,8,,,,,,,,,,,,,,,,
+Elmer,N/A,8.25,Jul-25,Paris,French,,,7.5,9,,,,,,,,,,,,,,,,
+Rooster,N/A,8.25,Jul-25,Paris,French,,,8,8.5,,,,,,,,,,,,,,,,
+Gaston,N/A,8.25,Jul-25,Paris,French,,,8,8.5,,,,,,,,,,,,,,,,
+Calice,N/A,8.25,Jul-25,Paris,Fusion,,,8.5,8,,,,,,,,,,,,,,,,
+L'art du Quotidien,N/A,8.5,Jul-25,Paris,French,,,8.5,8.5,,,,,,,,,,,,,,,,
+Tatar Bunar,N/A,8.75,Jul-25,London,Ukrainian,,,8.5,9,,,,,,,,,,,,,,,,
+Bombance,N/A,9,Jul-25,Paris,French,,,9,9,,,,,,,,,,,,,,,,
+Fogo,N/A,9,Jul-25,Paris,French,,,9,9,,,,,,,,,,,,,,,,
+Sesta,8.33,8.33,Aug-25,London,Modern European,8.5,8.5,8,,,,,,,,,,,,,,,,,
+Singapore Garden,N/A,6.63,Aug-25,London,Chinese,,,6,,,,6.5,,,,,,,,,,,6.5,7.5,
+The Buoy and Oyster,N/A,7.17,Aug-25,Margate,Seafood,,,7,7,,,,,,8,7,7,,,7,,,,,
+Angelina,N/A,8.25,Aug-25,London,Fusion,,,8,8.5,,,,,,,,,,,,,,,,
+Dove,N/A,8.5,Aug-25,London,Modern European,,,8.5,8.5,,,,,,,,,,,,,,,,
+Les Poulettes Batignolles,N/A,8.75,Aug-25,Paris,French,,,9,8.5,,,,,,,,,,,,,,,,
+Moi,N/A,8.5,Sep-25,London,Japanese,,,8,9,,,,,,,,,,,,,,,,
+Dinner by Heston,N/A,9.25,Sep-25,London,Modern European,,,9,9.5,,,,,,,,,,,,,,,,
+Mareida,7.33,7.5,Oct-25,London,Chilean,7.5,7,7.5,8,7.5,7.5,,,,,,,,,,,,,,
+The Bull and Last,N/A,7.5,Oct-25,London,Pub,,,7.5,7.5,,,,,,,,,,,,,,,,
+Legado,N/A,8.75,Nov-25,London,Spanish,,,8.5,9,,,,,,,,,,,,,,,,
+Legado,N/A,9.57,Nov-25,London,Spanish,,,,,,,9.2,9.5,,,,,,,,,10,,,
+Osteria Angelina,N/A,8.88,Nov-25,London,Fusion,,,9.5,,,,,9,,,,,,,,,,9,8,
+Dorian,N/A,9.25,Nov-25,London,Modern European,,,9.5,9,,,,,,,,,,,,,,,,
+The Red Lion (Ealing),N/A,8.17,Dec-25,London,Pub,8,,8.5,,8,,,,,,,,,,,,,,,
+Lilibet's,N/A,8.25,Dec-25,London,Seafood,,,7.5,9,,,,,,,,,,,,,,,,
+Brasserie Constance,7.83,7.83,Jan-26,London,Modern European,8,7.5,8,,,,,,,,,,,,,,,,,"https://i.postimg.cc/SRXN7rVm/PXL-20260125-125359674.jpg
+https://i.postimg.cc/sxBD9cKG/PXL-20260125-130156095.jpg
+https://i.postimg.cc/9fpMWzrM/PXL-20260125-132511088.jpg
+https://i.postimg.cc/QMbtXVHd/PXL-20260125-132513679.jpg
+https://i.postimg.cc/4dx3nZ9K/PXL-20260125-132515840.jpg
+https://i.postimg.cc/5t30xj6t/PXL-20260125-132517334.jpg
+https://i.postimg.cc/W4n32thz/PXL-20260125-132604828.jpg
+https://i.postimg.cc/k4g5D9bB/PXL-20260125-132606099.jpg
+https://i.postimg.cc/C1rxqtGv/PXL-20260125-132607440.jpg
+https://i.postimg.cc/RFZ0q9H6/PXL-20260125-133523649.jpg
+https://i.postimg.cc/x8kTyRgT/PXL-20260125-135744794.jpg
+https://i.postimg.cc/G2mp9ryy/PXL-20260125-135747535.jpg
+https://i.postimg.cc/JnYzkgNx/PXL-20260125-135825756.jpg
+https://i.postimg.cc/qqtMXLQn/PXL-20260125-143051603.jpg
+https://i.postimg.cc/Zn9KFcjh/PXL-20260125-143053915.jpg
+https://i.postimg.cc/XqZ7c8x4/PXL-20260125-143057594.jpg
+https://i.postimg.cc/wMSxWmbD/PXL-20260125-153131115.jpg
+https://i.postimg.cc/8cFPBHwv/PXL-20260125-153134226.jpg
+https://i.postimg.cc/XqZ7c8xf/PXL-20260125-153331101.jpg"
+Donia,N/A,8.25,Jan-26,London,Filipino,,,8.5,8,,,,,,,,,,,,,,,,"https://i.postimg.cc/KjgxgYvn/20260117-190708.jpg
+https://i.postimg.cc/wvM6gVCQ/PXL-20260117-191714664.jpg
+https://i.postimg.cc/sXxVsck6/PXL-20260117-191716585.jpg
+https://i.postimg.cc/63q9t0kM/PXL-20260117-191719517.jpg
+https://i.postimg.cc/7hTwTLY1/PXL-20260117-191910270.jpg
+https://i.postimg.cc/d3TwT0tv/PXL-20260117-191913112.jpg
+https://i.postimg.cc/LhKRkMnL/PXL-20260117-192153912.jpg
+https://i.postimg.cc/rstMtpFx/PXL-20260117-192347245.jpg
+https://i.postimg.cc/MTHWqDCd/PXL-20260117-192349874.jpg
+https://i.postimg.cc/2yBrB58j/PXL-20260117-195122903.jpg
+https://i.postimg.cc/z3Z5w1VS/PXL-20260117-195449445.jpg
+https://i.postimg.cc/WzJTJ4bb/PXL-20260117-195451459.jpg"
+OMA,N/A,8.9,Jan-26,London,Greek,,,8.5,,,,9,9,,,,,,,,,,9,9,"https://i.postimg.cc/vB4c3bZ4/IMG-3301.jpg
+https://i.postimg.cc/bY2Zny51/IMG-3302.jpg
+https://i.postimg.cc/j5BC1mDq/IMG-3303.jpg
+https://i.postimg.cc/nr7Mf2mk/PXL-20260110-175105819.jpg
+https://i.postimg.cc/59FXz4r5/PXL-20260110-175106772.jpg
+https://i.postimg.cc/tJP7Gk6D/PXL-20260110-175107756.jpg
+https://i.postimg.cc/50X6nbNG/PXL-20260110-175109076.jpg
+https://i.postimg.cc/pr8yMCjw/PXL-20260110-175110758.jpg
+https://i.postimg.cc/G3s4DLfQ/PXL-20260110-175113452.jpg
+https://i.postimg.cc/mDPt8Bgr/PXL-20260110-175114468.jpg
+https://i.postimg.cc/Zn30zH3Z/PXL-20260110-181306550.jpg
+https://i.postimg.cc/gJxnNm2r/PXL-20260110-181308056.jpg
+https://i.postimg.cc/Nfq5khqM/PXL-20260110-181311625.jpg
+https://i.postimg.cc/4djn0qYt/PXL-20260110-182733609.jpg
+https://i.postimg.cc/CLTzsyTh/PXL-20260110-183209689.jpg
+https://i.postimg.cc/fL1kPpVv/PXL-20260110-183241349.jpg
+https://i.postimg.cc/mDKhnJP3/PXL-20260110-183457693.jpg
+https://i.postimg.cc/C5Ddp787/PXL-20260110-185959886.jpg
+https://i.postimg.cc/QtFH0hxR/PXL-20260110-190002111.jpg
+https://i.postimg.cc/0jmr1nmR/PXL-20260110-190003719.jpg
+https://i.postimg.cc/fLVJBDT1/PXL-20260110-190131918.jpg
+https://i.postimg.cc/261V2r8M/PXL-20260110-190134681.jpg
+https://i.postimg.cc/50X6nb26/PXL-20260110-190159569.jpg
+https://i.postimg.cc/BbDtfpF7/PXL-20260110-190204018.jpg
+https://i.postimg.cc/JnsGPMz7/PXL-20260110-193038218.jpg
+https://i.postimg.cc/V625hpJS/PXL-20260110-194425017.jpg"
+Akoko,N/A,9,Jan-26,London,West African,,,9,9,,,,,,,,,,,,,,,,"https://i.postimg.cc/mrNct86G/20260131-204218.jpg
+https://i.postimg.cc/SsSn8Cwd/PXL-20260131-203343807.jpg
+https://i.postimg.cc/9ft4rJgg/PXL-20260131-204340754.jpg
+https://i.postimg.cc/6QL7yYb1/PXL-20260131-204551829.jpg
+https://i.postimg.cc/8CBFjtnG/PXL-20260131-205023983.jpg
+https://i.postimg.cc/PqzLP2F5/PXL-20260131-210058124.jpg
+https://i.postimg.cc/B6SjDHdJ/PXL-20260131-210843750.jpg
+https://i.postimg.cc/cHxvYwVg/PXL-20260131-210846686.jpg
+https://i.postimg.cc/85p7WMqc/PXL-20260131-212251819.jpg
+https://i.postimg.cc/Hx6Vtjg5/PXL-20260131-212255048.jpg
+https://i.postimg.cc/cJMKrXkz/PXL-20260131-213159019.jpg
+https://i.postimg.cc/qR1zGgTX/PXL-20260131-214500058.jpg
+https://i.postimg.cc/tgt1Y2vf/PXL-20260131-215818545.jpg
+https://i.postimg.cc/q7XtzjZ7/PXL-20260131-215825781.jpg
+https://i.postimg.cc/26k1vhP5/PXL-20260131-221352168.jpg
+https://i.postimg.cc/9MLrBzhG/PXL-20260131-222531714.jpg
+https://i.postimg.cc/tTqsPWLY/PXL-20260131-223408652.jpg
+https://i.postimg.cc/Kz0R542w/PXL-20260131-223409853.jpg"
+Root81,N/A,6.83,Feb-26,Mdina,Modern European,,,7,,,,,,,,,,,,,,,7,6.5,"https://i.postimg.cc/fy114jsk/PXL-20260217-133635757.jpg
+https://i.postimg.cc/2yggpFYy/PXL-20260217-133637672.jpg
+https://i.postimg.cc/7hjjvM4f/PXL-20260217-133639845.jpg
+https://i.postimg.cc/rs776CTC/PXL-20260217-141557922.jpg
+https://i.postimg.cc/Rh22rQmZ/PXL-20260217-141559615.jpg
+https://i.postimg.cc/J0SSwc8J/PXL-20260217-141604738.jpg
+https://i.postimg.cc/Gt660JRF/PXL-20260217-145153782.jpg
+https://i.postimg.cc/6qFFsLKh/PXL-20260217-145155664.jpg
+https://i.postimg.cc/nrNN8YxK/PXL-20260217-145200195.jpg"
+Chop House Silema,N/A,7.67,Feb-26,Silema ,Modern European,,,8,,,,,,,,,,,,,,,7.5,7.5,"https://i.postimg.cc/LXGMRMB4/IMG-3425.jpg
+https://i.postimg.cc/Kcg2fRxL/IMG-3426.jpg
+https://i.postimg.cc/zGN8V8mY/IMG-3427.jpg
+https://i.postimg.cc/jd0rFtS7/IMG-3428.jpg
+https://i.postimg.cc/jSv02f4b/PXL-20260216-182000544.jpg
+https://i.postimg.cc/c18Shr0n/PXL-20260216-182238766.jpg
+https://i.postimg.cc/65JNmtph/PXL-20260216-185219360.jpg
+https://i.postimg.cc/9Fdj3K4R/PXL-20260216-190146840.jpg
+https://i.postimg.cc/4x1ZcqZ2/PXL-20260216-190149957.jpg
+https://i.postimg.cc/vHfGYDNv/PXL-20260216-190153034.jpg
+https://i.postimg.cc/W1VThTRt/PXL-20260216-193442163.jpg
+https://i.postimg.cc/FKW4WSY7/PXL-20260216-193444736.jpg
+https://i.postimg.cc/rFxqVzHq/PXL-20260216-193446203.jpg"
+One80 Valetta,N/A,8,Feb-26,Valetta,Modern European,,,8.5,,,,,,,,,,,,,,,7.5,8,"https://i.postimg.cc/43M0HQKp/PXL-20260215-172539031.jpg
+https://i.postimg.cc/rmrP1RxL/PXL-20260215-173445966.jpg
+https://i.postimg.cc/Prz0VDcZ/PXL-20260215-173446749.jpg
+https://i.postimg.cc/gjbBNcH8/PXL-20260215-174915713.jpg
+https://i.postimg.cc/4yRFB4Qv/PXL-20260215-174917566.jpg
+https://i.postimg.cc/x8Gp7r6K/PXL-20260215-174919416.jpg
+https://i.postimg.cc/yNW5NbNC/PXL-20260215-174920942.jpg
+https://i.postimg.cc/rFC7Z4br/PXL-20260215-174923556.jpg
+https://i.postimg.cc/jdQB3f9y/PXL-20260215-181919136.jpg
+https://i.postimg.cc/x1fhwCDq/PXL-20260215-181952883.jpg
+https://i.postimg.cc/3wW6wcwW/PXL-20260215-181956323.jpg
+https://i.postimg.cc/jSMmtbRq/PXL-20260215-181958334.jpg
+https://i.postimg.cc/zf3Mfcf1/PXL-20260215-190616444.jpg"
+Grain Street,N/A,8.17,Feb-26,Valetta,Modern European,,,8.5,,,,,,,,,,,,,,,8.5,7.5,"https://i.postimg.cc/mrwxcHYj/PXL-20260217-184005203.jpg
+https://i.postimg.cc/d0vPtBy2/PXL-20260217-185542380.jpg
+https://i.postimg.cc/QMsGxbTp/PXL-20260217-192511479.jpg
+https://i.postimg.cc/R095VRH1/PXL-20260217-192513543.jpg
+https://i.postimg.cc/0NxR2fwd/PXL-20260217-192516020.jpg
+https://i.postimg.cc/tg501x32/PXL-20260217-192604939.jpg
+https://i.postimg.cc/435CK96F/PXL-20260217-200527088.jpg"
+Luso,N/A,8.44,Feb-26,London,Portugese,,,8.5,,,,8.5,8.25,,,,,8.1,8.2,,,,8.5,9,"https://i.postimg.cc/x18gGbSn/PXL-20260214-135912644.jpg
+https://i.postimg.cc/R0nRy5Ft/PXL-20260214-141333986.jpg
+https://i.postimg.cc/0y4nV285/PXL-20260214-141343872.jpg
+https://i.postimg.cc/zGQ7xXJJ/PXL-20260214-142704560.jpg
+https://i.postimg.cc/2SyTdBfC/PXL-20260214-142714517.jpg
+https://i.postimg.cc/3wDBV5R0/PXL-20260214-142746685.jpg
+https://i.postimg.cc/26Rwfcb2/PXL-20260214-142751744.jpg
+https://i.postimg.cc/hG7r6Wjy/PXL-20260214-142832110.jpg
+https://i.postimg.cc/DzbgHkZb/PXL-20260214-150726740.jpg
+https://i.postimg.cc/T2jkT6c4/PXL-20260214-150818795.jpg
+https://i.postimg.cc/SNygsvTk/PXL-20260214-150821137.jpg
+https://i.postimg.cc/BQqm6VYQ/PXL-20260214-151104698.jpg
+https://i.postimg.cc/kMNj7myY/PXL-20260214-151125247.jpg
+https://i.postimg.cc/8kdyTSb3/PXL-20260214-151129320.jpg
+https://i.postimg.cc/Y2NXtHx5/PXL-20260214-151131098.jpg
+https://i.postimg.cc/pX2sT6GH/PXL-20260214-151136336.jpg"
+Harbour Club,N/A,8.5,Feb-26,Valetta,Modern European,,,8.5,,,,,,,,,,,,,,,8,9,"https://i.postimg.cc/j2CrYSJH/IMG-3447.jpg
+https://i.postimg.cc/zvMYzYCf/PXL-20260216-123911459.jpg
+https://i.postimg.cc/1XT1m1G6/PXL-20260216-123914306.jpg
+https://i.postimg.cc/qqYHJHsz/PXL-20260216-123917144.jpg
+https://i.postimg.cc/mkqWLWYz/PXL-20260216-123941686.jpg
+https://i.postimg.cc/4yMRfR69/PXL-20260216-130932986.jpg
+https://i.postimg.cc/SRjpbxM0/PXL-20260218-184828918.jpg
+https://i.postimg.cc/Y0jwBCm8/PXL-20260218-184832017.jpg
+https://i.postimg.cc/MHX8JpjD/PXL-20260218-184833386.jpg
+https://i.postimg.cc/7hbyrZTN/PXL-20260218-190755994.jpg
+https://i.postimg.cc/Y0VBrB6j/PXL-20260218-190757959.jpg
+https://i.postimg.cc/WztPc1Jf/PXL-20260218-190800329.jpg
+https://i.postimg.cc/7hbyrZTp/PXL-20260218-193540026.jpg
+https://i.postimg.cc/J0tWCzBv/PXL-20260218-193542112.jpg"
+A Wong,N/A,8.5,Feb-26,London,Dim Sum,,,8,9,,,,,,,,,,,,,,,,"https://i.postimg.cc/d3WrD43T/20260207-192407.jpg
+https://i.postimg.cc/ZKR6Xts9/20260207-193407.jpg
+https://i.postimg.cc/tgh6FXJD/20260207-210648.jpg
+https://i.postimg.cc/Y9H1PvTj/20260207-213946.jpg
+https://i.postimg.cc/JnMkq9BL/PXL-20260207-191138845.jpg
+https://i.postimg.cc/D0CLmB0z/PXL-20260207-192033144.jpg
+https://i.postimg.cc/Y0XYjb0F/PXL-20260207-192035985.jpg
+https://i.postimg.cc/Wb30xLYN/PXL-20260207-192330397.jpg
+https://i.postimg.cc/bJ9Qfzjm/PXL-20260207-193157960.jpg
+https://i.postimg.cc/zXBT4Z2k/PXL-20260207-193240724.jpg
+https://i.postimg.cc/hj19RSq0/PXL-20260207-193242109.jpg
+https://i.postimg.cc/vT85QpYs/PXL-20260207-193243489.jpg
+https://i.postimg.cc/qMR2WVD7/PXL-20260207-193245168.jpg
+https://i.postimg.cc/xC3KV0S8/PXL-20260207-193246506.jpg
+https://i.postimg.cc/4y4pJrJQ/PXL-20260207-193247947.jpg
+https://i.postimg.cc/4xHVNvTM/PXL-20260207-193253231.jpg
+https://i.postimg.cc/8P0LSKx2/PXL-20260207-193255340.jpg
+https://i.postimg.cc/yxfcWvx7/PXL-20260207-193258799.jpg
+https://i.postimg.cc/L6bjpCGC/PXL-20260207-200213458.jpg
+https://i.postimg.cc/bwSkN0hG/PXL-20260207-200216346.jpg
+https://i.postimg.cc/tJrW72T8/PXL-20260207-200217746.jpg
+https://i.postimg.cc/26rZwPBj/PXL-20260207-200219887.jpg
+https://i.postimg.cc/WbH0vWxx/PXL-20260207-200221483.jpg
+https://i.postimg.cc/LszPjH5B/PXL-20260207-200224541.jpg
+https://i.postimg.cc/63XdP8F4/PXL-20260207-202315261.jpg
+https://i.postimg.cc/C5MbFWh0/PXL-20260207-203403022.jpg
+https://i.postimg.cc/HnWbpfp6/PXL-20260207-203408258.jpg
+https://i.postimg.cc/BnPHQ50b/PXL-20260207-203416619.jpg
+https://i.postimg.cc/C5vkdm5z/PXL-20260207-203427878.jpg
+https://i.postimg.cc/Dw4LyQKR/PXL-20260207-210630923.jpg
+https://i.postimg.cc/3NLmWnNx/PXL-20260207-210636757.jpg
+https://i.postimg.cc/wv2sb0hL/PXL-20260207-210641053.jpg
+https://i.postimg.cc/CL1b9TrG/PXL-20260207-213931268.jpg
+https://i.postimg.cc/MpfVK0Sk/PXL-20260207-213936071.jpg
+https://i.postimg.cc/fTLY1nqT/PXL-20260207-214046064.jpg
+https://i.postimg.cc/65mCXjFP/PXL-20260207-214500329.jpg
+https://i.postimg.cc/D0CLmB0K/PXL-20260207-214501963.jpg
+https://i.postimg.cc/Z5vpKPSB/PXL-20260207-214503391.jpg
+https://i.postimg.cc/hjcdrH7j/PXL-20260207-214504728.jpg
+https://i.postimg.cc/PJf1tBt3/PXL-20260207-214506776.jpg
+https://i.postimg.cc/RhPKqXhw/PXL-20260207-215146220.jpg
+https://i.postimg.cc/QC61V0CV/PXL-20260207-220642041.jpg
+https://i.postimg.cc/NMBH4WrQ/PXL-20260207-220643805.jpg
+https://i.postimg.cc/br6kd3rb/PXL-20260207-220649136.jpg
+https://i.postimg.cc/VvsXY3Y9/PXL-20260207-222228129.jpg
+https://i.postimg.cc/sX4pCVRg/PXL-20260207-222253233.jpg"
+Nora,N/A,8,Mar-26,London,Turkish,,,8,8,,,,,,,,,,,,,,,,"https://i.postimg.cc/7ZJYTmhN/PXL-20260301-131145902.jpg
+https://i.postimg.cc/W1qbJXz8/PXL-20260301-132409805.jpg
+https://i.postimg.cc/Nj2frpF7/PXL-20260301-132411639.jpg
+https://i.postimg.cc/nh9cQ0rT/PXL-20260301-133647032.jpg
+https://i.postimg.cc/Dw4ybB0B/PXL-20260301-133648526.jpg
+https://i.postimg.cc/t4nCV2J5/PXL-20260301-133650229.jpg
+https://i.postimg.cc/BnPQ1Mbz/PXL-20260301-133651799.jpg
+https://i.postimg.cc/W1qbJXzH/PXL-20260301-134408903.jpg
+https://i.postimg.cc/T35YWChv/PXL-20260301-142711354.jpg"
+Osteria Angelina,N/A,8.75,Mar-26,London,Fusion,,,9,8.5,,,,,,,,,,,,,,,,"https://i.postimg.cc/Gt3m8RTT/PXL-20260307-145640680.jpg
+https://i.postimg.cc/BbZnL3PD/PXL-20260307-150733802.jpg
+https://i.postimg.cc/2yjSbYLZ/PXL-20260307-151159403.jpg
+https://i.postimg.cc/NFNfRnRd/PXL-20260307-151203325.jpg
+https://i.postimg.cc/2yjSbYLW/PXL-20260307-151458472.jpg
+https://i.postimg.cc/zvDGbNHc/PXL-20260307-151956710.jpg
+https://i.postimg.cc/Kj9vtWnX/PXL-20260307-152023327.jpg
+https://i.postimg.cc/mkd27n78/PXL-20260307-152311031.jpg
+https://i.postimg.cc/Kj9vtWtQ/PXL-20260307-152312828.jpg
+https://i.postimg.cc/rshF5H5H/PXL-20260307-154022913.jpg
+https://i.postimg.cc/PfKxGC0p/PXL-20260307-154438502.jpg
+https://i.postimg.cc/2yH8ntnJ/PXL-20260307-154440451.jpg
+https://i.postimg.cc/d3WtGf8P/PXL-20260307-155818126.jpg
+https://i.postimg.cc/vTPH5KWy/PXL-20260307-155819685.jpg
+https://i.postimg.cc/sfKXFMb7/PXL-20260307-155827231.jpg"
+Khao so I,7.33,7.33,Apr-26,London,Thai,7,7.5,7.5,,,,,,,,,,,,,,,,,"https://i.postimg.cc/sx3vYSqW/PXL-20260329-122327381.jpg
+https://i.postimg.cc/XqnpfFmB/PXL-20260329-124823594.jpg
+https://i.postimg.cc/yYYDWm0y/PXL-20260329-124825696.jpg
+https://i.postimg.cc/d3nD43KM/PXL-20260329-125527190.jpg
+https://i.postimg.cc/59mHx7Qq/PXL-20260329-125528384.jpg
+https://i.postimg.cc/8PP7sRLZ/PXL-20260329-125529594.jpg
+https://i.postimg.cc/TYYKhVnQ/PXL-20260329-125531020.jpg
+https://i.postimg.cc/G3jBc7TH/PXL-20260329-125842135.jpg
+https://i.postimg.cc/1RKg9CVW/PXL-20260329-132604577.jpg
+https://i.postimg.cc/h40JSyQd/PXL-20260329-132606147.jpg
+https://i.postimg.cc/WzStXzcY/PXL-20260329-132721574.jpg
+https://i.postimg.cc/2yCVQvMq/PXL-20260329-132736305.jpg
+https://i.postimg.cc/5yf6BvTC/PXL-20260329-132737551.jpg
+https://i.postimg.cc/BbNtMbfr/PXL-20260329-132738856.jpg"
+Jadro,N/A,6,Apr-26,Ljublana,Seafood,,,6,,,,,,,,,,,,,,,,,"https://i.postimg.cc/T1vnZpSv/PXL-20260404-173809303.jpg
+https://i.postimg.cc/nrfq6C5t/PXL-20260404-182021916.jpg"
+Georgie Bistro,N/A,8,Apr-26,Ljublana,Modern European,,,8,,,,,,,,,,,,,,,,,"https://i.postimg.cc/JhyJ0NCm/PXL-20260403-102804349.jpg
+https://i.postimg.cc/d07d32cw/PXL-20260403-102903232.jpg
+https://i.postimg.cc/cJKYCRGd/PXL-20260403-103030201.jpg
+https://i.postimg.cc/RFKHQv0T/PXL-20260403-103535510-2.jpg
+https://i.postimg.cc/6Q7Rqrx9/PXL-20260403-104124791.jpg
+https://i.postimg.cc/Qt1TkjMJ/PXL-20260403-110847137.jpg"
+Roe,N/A,7.5,Mar-26,London,Modern European,,,7.5,7.5,,,,,,,,,,,,,,,,"https://i.postimg.cc/YSSR3LKk/PXL-20260406-175217549.jpg
+https://i.postimg.cc/76GVvvZ5/PXL-20260406-175223718.jpg
+https://i.postimg.cc/TPP095M2/PXL-20260406-175733798.jpg
+https://i.postimg.cc/TPH9H2fY/PXL-20260406-175736461.jpg
+https://i.postimg.cc/PqF4FfhB/PXL-20260406-175739181.jpg
+https://i.postimg.cc/43F5F4sm/PXL-20260406-182250786.jpg
+https://i.postimg.cc/d006BZPF/PXL-20260406-182254155-2.jpg
+https://i.postimg.cc/TwL9883y/PXL-20260406-185855241.jpg"
+FAN,N/A,8.25,Apr-26,London,Nikkei,,,8,8.5,,,,,,,,,,,,,,,,"https://i.postimg.cc/5Npr1VmB/PXL-20260502-182647902.jpg
+https://i.postimg.cc/xTgZY2PZ/PXL-20260502-183726585.jpg
+https://i.postimg.cc/HndSDZcB/PXL-20260502-184005327.jpg
+https://i.postimg.cc/wBR4hsYw/PXL-20260502-191704493-MP.jpg
+https://i.postimg.cc/ZnxMWttD/PXL-20260502-192448566.jpg
+https://i.postimg.cc/Gtx54wwq/PXL-20260502-195224938.jpg
+https://i.postimg.cc/2y7K1RRT/PXL-20260502-195905455.jpg
+https://i.postimg.cc/qqTFBBYP/PXL-20260502-201317746.jpg
+https://i.postimg.cc/wTFrHpk4/PXL-20260502-201932571-MP.jpg
+https://i.postimg.cc/wvTtCDxP/PXL-20260502-184743493.jpg
+https://i.postimg.cc/zBXLsTDQ/PXL-20260502-195855279.jpg
+https://i.postimg.cc/ydYJM06b/PXL-20260502-195905455.jpg
+https://i.postimg.cc/6357kC6b/PXL-20260502-201317746.jpg"
+Impala,N/A,8.5,Apr-26,London,North African,,,8,8.5,,,9,8.5,,,,,,,,,,,,"https://i.postimg.cc/HnMBMGGb/PXL-20260424-192155428.jpg
+https://i.postimg.cc/sxWwWFFz/PXL-20260424-194040288.jpg
+https://i.postimg.cc/MHBdBkkq/PXL-20260424-195342832.jpg
+https://i.postimg.cc/ZnNVNkkn/PXL-20260424-195419468.jpg
+https://i.postimg.cc/909J933r/PXL-20260424-195613081.jpg
+https://i.postimg.cc/tJ62600s/PXL-20260424-195903122.jpg
+https://i.postimg.cc/j2fZfVVw/PXL-20260424-195958848.jpg
+https://i.postimg.cc/pV504jms/PXL-20260424-200128384-MP.jpg
+https://i.postimg.cc/6qZYZssd/PXL-20260424-200315785.jpg
+https://i.postimg.cc/dQZWpChH/PXL-20260424-201051222.jpg
+https://i.postimg.cc/vTn3nRRM/PXL-20260424-201053804.jpg
+https://i.postimg.cc/2yW2WppD/PXL-20260424-212710714.jpg"
+Firebird,N/A,9,Apr-26,London,Modern European,,,9,9,,,,,,,,,,,,,,,,"https://i.postimg.cc/9Mycsk5b/PXL-20260503-120505670.jpg
+https://i.postimg.cc/wvD9nr8m/PXL-20260503-122626543.jpg
+https://i.postimg.cc/Y0kt7xMY/PXL-20260503-123109772.jpg
+https://i.postimg.cc/gJ3G17FR/PXL-20260503-123112371.jpg
+https://i.postimg.cc/SRqm4Gk9/PXL-20260503-123618212-MP.jpg
+https://i.postimg.cc/RFwv2Y5t/PXL-20260503-123620720.jpg
+https://i.postimg.cc/26nCgtRh/PXL-20260503-125833458.jpg
+https://i.postimg.cc/SscmHPFV/PXL-20260503-125837651.jpg
+https://i.postimg.cc/8cDTGbNh/PXL-20260503-133027632.jpg"
+Girl & The Goat,N/A,7.88,May-26,Chicago,New American,,,8,,,,,,,,,,,,,7.75,,,,"https://i.postimg.cc/gJ6qFBhv/PXL-20260512-233307826.jpg
+https://i.postimg.cc/gJ6qFBhy/PXL-20260512-233311337.jpg
+https://i.postimg.cc/JnBcVdXc/PXL-20260512-233547687.jpg
+https://i.postimg.cc/qRCXVZKG/PXL-20260512-234515765.jpg
+https://i.postimg.cc/Vvqq5rDf/PXL-20260512-235224684.jpg
+https://i.postimg.cc/rsXG8CCM/PXL-20260512-235909634.jpg
+https://i.postimg.cc/1XGG4nJ3/PXL-20260513-000752901.jpg
+https://i.postimg.cc/zvCC3b0f/PXL-20260513-000815296.jpg"
+Myrtos by Asimakis,N/A,8,May-26,London,Greek,,,8,,,,,,,,,,,,,,,8,,"https://i.postimg.cc/CxHnHy8N/PXL-20260504-133134662.jpg
+https://i.postimg.cc/rwCRC6W2/PXL-20260504-135011960.jpg
+https://i.postimg.cc/L8BgBdfM/PXL-20260504-135014261.jpg
+https://i.postimg.cc/pdWhs0YW/PXL-20260504-135842407-MP.jpg
+https://i.postimg.cc/cLMtMq3D/PXL-20260504-135843900.jpg
+https://i.postimg.cc/GmJTJ0D7/PXL-20260504-142418448.jpg
+https://i.postimg.cc/sg9G9FWL/PXL-20260504-142419839.jpg
+https://i.postimg.cc/2SFLFpWP/PXL-20260504-142421119.jpg
+https://i.postimg.cc/bvyDm6Hc/PXL-20260504-142422691.jpg
+https://i.postimg.cc/W4NF59mx/PXL-20260504-145139278.jpg"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Highest Overall Rating Per Year,,,,,,,,,,,,,,,,,,,,,,,,,
+2026,Akoko,9,,,,,,,,,,,,,,,,,,,,,,,
+2025,Legado,9.57,,,,,,,,,,,,,,,,,,,,,,,
+2024,Bentleys,9.25,,,,,,,,,,,,,,,,,,,,,,,
+2023,Hawksmoor,8.17,,,,,,,,,,,,,,,,,,,,,,,
+2022,Coya,9,,,,,,,,,,,,,,,,,,,,,,,
+2021,Paladar,8.83,,,,,,,,,,,,,,,,,,,,,,,
+2020,Brindisa,8.33,,,,,,,,,,,,,,,,,,,,,,,
+2019,Chotto Matte,9.17,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Highest H/L/J Rating Per Year,,,,,,,,,,,,,,,,,,,,,,,,,
+2026,Brasserie Constance,7.83,,,,,,,,,,,,,,,,,,,,,,,
+2025,Osteria Angelina,8.67,,,,,,,,,,,,,,,,,,,,,,,
+2024,Leroy,8,,,,,,,,,,,,,,,,,,,,,,,
+2023,Hawksmoor,8.17,,,,,,,,,,,,,,,,,,,,,,,
+2022,Coya,9,,,,,,,,,,,,,,,,,,,,,,,
+2021,Paladar,8.83,,,,,,,,,,,,,,,,,,,,,,,
+2020,Brindisa,8.33,,,,,,,,,,,,,,,,,,,,,,,
+2019,Chotto Matte,9.17,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Average Rating Per Person,,,,,,,,,,,,,,,,,,,,,,,,,
+,Joe,7.86,,,,,,,,,,,,,,,,,,,,,,,
+,Lee,7.63,,,,,,,,,,,,,,,,,,,,,,,
+,Hugo,7.81,,,,,,,,,,,,,,,,,,,,,,,
+,Nik,8.25,,,,,,,,,,,,,,,,,,,,,,,
+,Zoe,7.5,,,,,,,,,,,,,,,,,,,,,,,
+,Courtney,7.88,,,,,,,,,,,,,,,,,,,,,,,
+,Randal,8.02,,,,,,,,,,,,,,,,,,,,,,,
+,Victoria,8.07,,,,,,,,,,,,,,,,,,,,,,,
+,Aiden,7.5,,,,,,,,,,,,,,,,,,,,,,,
+,Jamie,8,,,,,,,,,,,,,,,,,,,,,,,
+,Jos,7,,,,,,,,,,,,,,,,,,,,,,,
+,Charlie,7,,,,,,,,,,,,,,,,,,,,,,,
+,Oscar,8.1,,,,,,,,,,,,,,,,,,,,,,,
+,Jess,8.2,,,,,,,,,,,,,,,,,,,,,,,
+,Caty,7,,,,,,,,,,,,,,,,,,,,,,,
+,Gillian,7.75,,,,,,,,,,,,,,,,,,,,,,,
+,Victoria's Mum,10,,,,,,,,,,,,,,,,,,,,,,,
+,Mum,7.88,,,,,,,,,,,,,,,,,,,,,,,
+,Dad,8.076923077,,,,,,,,,,,,,,,,,,,,,,,
